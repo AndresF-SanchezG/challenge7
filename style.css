@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --Dark-cyan: hsl(185, 75%, 39%);
+    --Very-dark-desaturated-blue: hsl(229, 23%, 23%);
+    --Dark-rayish-blue: hsl(227, 10%, 46%);
+    --Dark-gray: hsl(0, 0%, 59%);
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+body {
+    display: grid;
+    place-content: center;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Big Shoulders Display', cursive;
+    background: var(--Dark-cyan);
+    background-image: url(./profile-card-component-main/images/bg-pattern-top.svg), url(./profile-card-component-main/images/bg-pattern-bottom.svg);
+    background-position: right 60px bottom 350px, left 150px top 245px;
+    overflow: hidden;
+    background-repeat: no-repeat, no-repeat;     
+}
+
+.card-container {
+   
+    width: 338px ;
+    align-items: center;
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;   
+}
+
+img {
+    width: 100%;
+}
+
+
+.photo-container {
+
+    display: flex;
+    justify-content: center;
+    background-color: white; 
+    margin-top: 70px;
+}
+
+.photo-perfil {
+    background-color: white;  
+}
+
+.photo-container .photo-perfil {
+    width: 130px;
+    height: 130px;
+    padding: 5px;
+    border-radius: 100px;
+    margin-top: -140px;  
+}
+
+.card-container h1 {
+    font-size: 2.0rem;
+    margin-top: 20px;
+    font-family: 'Kumbh Sans', sans-serif;
+    color: var(--Very-dark-desaturated-blue);
+    font-weight: 700;
+    text-align: center;  
+}
+
+.card-container p {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    color: var(--Dark-rayish-blue);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.card-container b {
+    font-size: 1.8rem;
+    color: var(--Dark-rayish-blue);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    margin-left: 5px;   
+}
+
+footer {
+    margin-top: 30px;
+    border-top: solid 1px rgb(225 220 220);
+      
+}
+
+.metrics-section {
+    margin-top: 20px;
+    padding: 0 50px 0 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.metrics-section .count-metrics  {
+    font-size: 1.8rem;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    color: var(--Very-dark-desaturated-blue); 
+}
+
+.metrics-section .description-metrics  {
+    font-size: 1.2rem;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: var(--Dark-rayish-blue);  
+}
+
