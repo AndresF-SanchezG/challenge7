@@ -10,12 +10,11 @@ This challenge is to build the product preview card component and get it looking
 
 # Screenshot
 
-![Captura2](https://github.com/AndresF-SanchezG/reto6./assets/113924667/97088dae-3d72-4541-9e56-2b1b21ffdaec)
-![Captura2](https://github.com/AndresF-SanchezG/reto6./assets/113924667/c02057fe-4630-4257-8469-66ac06f2419a)
+
 
 # Links
 
-- Live Site URL: [Vercel deployed app](https://reto6-opal.vercel.app/)
+- Live Site URL: [Vercel deployed app](https://challenge7-nu.vercel.app/)
 
 # Author
 
