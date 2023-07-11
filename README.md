@@ -18,7 +18,7 @@ This challenge is to build the product preview card component and get it looking
 
 # Author
 
-- Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
+- Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
 - Challenge - [Profile card component](https://www.frontendmentor.io/solutions/chagenge-resolved-with-html-and-css-iQL4C5v4RK)
 
