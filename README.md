@@ -10,7 +10,7 @@ This challenge is to build the product preview card component and get it looking
 
 # Screenshot
 
-
+![Captura2](https://github.com/AndresF-SanchezG/challenge7/assets/113924667/42cd58b4-21eb-441f-b972-4eb78f5f41ea)
 
 # Links
 
@@ -20,5 +20,5 @@ This challenge is to build the product preview card component and get it looking
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
 - School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
-- Challenge - [3-column preview card component](https://www.frontendmentor.io/solutions/challenge-unlock-with-html-css-and-responsive-design-bV0bLk-CwQ)
+- Challenge - [Profile card component](https://www.frontendmentor.io/solutions/chagenge-resolved-with-html-and-css-iQL4C5v4RK)
 
